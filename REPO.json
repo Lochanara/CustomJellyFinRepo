@@ -502,7 +502,7 @@
                 "version": "6.0.0.0",
                 "changelog": "changelog\n",
                 "targetAbi": "10.7.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/pushbullet/pushbullet_6.0.0.0.zip",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/pushbullet/pushbullet_5.0.0.0.zip",
                 "checksum": "248cf3d56644f1d909e75aaddbdfb3a6",
                 "timestamp": "2020-12-06T02:47:53Z"
             },
