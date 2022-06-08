@@ -1272,7 +1272,7 @@
                 "version": "11.0.0.0",
                 "changelog": "### Code or Repo Maintenance ###\n- Fix scheduled task (#106) @crobibero\n- chore(deps): bump Handlebars.Net from 2.0.10 to 2.1.0 (#101) @dependabot\n- chore(deps): bump MailKit from 3.1.0 to 3.1.1 (#102) @dependabot\n- chore(deps): bump MailKit from 3.0.0 to 3.1.0 (#95) @dependabot\n\n### Dependency updates ###\n- chore(deps): bump Handlebars.Net from 2.0.10 to 2.1.0 (#101) @dependabot\n- chore(deps): bump MailKit from 3.1.0 to 3.1.1 (#102) @dependabot\n- chore(deps): bump MailKit from 3.0.0 to 3.1.0 (#95) @dependabot\n\n### CI & build changes ###\n- fix: wrong name in ci workflows (#104) @h1dden-da3m0n\n- ci: migrate to centralized Plugin CI workflows (#94) @h1dden-da3m0n",
                 "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/webhook/webhook_11.0.0.0.zip",
+                "sourceUrl": "https://repo.jellyfin.org/releases/plugin/webhook/webhook_10.0.0.0.zip",
                 "checksum": "adcd796f3c83498a3577c1f6380324e3",
                 "timestamp": "2022-03-28T00:08:01Z"
             },
